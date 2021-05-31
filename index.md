@@ -5,7 +5,8 @@ layout: page
 callouts: home_callouts
 show_sidebar: false
 ---
-## About me
+
+## Greetings
 
 Software Engineer with vast knowledge in game and software development. In my 8+ years of experience, I have had the opportunity to collaborate and take the lead in several projects of 3D graphics(image processing, AR, VR, gaming, etc.).
 
