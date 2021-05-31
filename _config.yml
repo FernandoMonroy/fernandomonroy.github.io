@@ -6,3 +6,11 @@ tagline: Fernando Monroy
 email: fernando.monroy.mtz@hotmail.com
 description: >
   Senior software engineer
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
