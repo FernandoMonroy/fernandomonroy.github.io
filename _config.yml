@@ -6,6 +6,14 @@ tagline: Fernando Monroy
 email: fernando.monroy.mtz@hotmail.com
 description: >
   Senior software engineer
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
 
 defaults:
   -
