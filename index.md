@@ -2,7 +2,6 @@
 title: Fernando Monroy
 subtitle: Senior Software Engineer
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 ## Greetings
