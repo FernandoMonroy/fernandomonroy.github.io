@@ -6,11 +6,7 @@ show_sidebar: false
 
 {% include youtube.html video="zj_e8J6RiWE" %}
 
-##
-Evo Island, procedural ecosystem game simulation:
-##
-    - Design the overall software architecture and modules communication of the project
-##
-    - Implement runtime geometry generation using a custom Delaunay algorithm for triangulation and a custom Poisson disk sampling algorithm to generate point data.
-##
-    - Use of unity jobs and c# tasks (thread pool) to multithread specific parts of the code, mainly geometry generation and placement
+Chorus, Fishlabs Deep-Silver:
+- Integrate unreal engine real-time volumetric effects to cinematics to achieve LookDev for main character 2nd Power.
+- Modify unreal engine volumetric packages to provide real-time color lighting and velocity change.
+- Provide support to run volumetric VFX in the unreal sequencer.
