@@ -1,8 +1,10 @@
 - name: Projects
   link: /#
   dropdown:
+    - name: Chorus
+      link: /chorus/
     - name: EVO Island
-      link: /page-1/
+      link: /evo/
     - name: Food Truck Chef Port
       link: /page-2/
     - name: Languinis Port
