@@ -7,8 +7,9 @@ show_sidebar: false
 
 
 
-## Chorus, Fishlabs Deep-Silver:
+## Hawk I, Texas deparment of transportation:
 
-* Integrate unreal engine real-time volumetric effects to cinematics to achieve LookDev for main character 2nd Power.
-* Modify unreal engine volumetric packages to provide real-time color lighting and velocity change.
-* Provide support to run volumetric VFX in the unreal sequencer.
+* Design the product software architecture with composition over inheritance in mind.
+* Modify MIT license Prefabricator plugin to fit project demands to create vehicle modularization. 
+* Create SQL lite database implementation to handle simulation training data for a large number of vehicles.
+
